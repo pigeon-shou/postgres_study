@@ -1,6 +1,7 @@
 # PostagleSQL Study
-PostgreSQLとPython(psycopg2)を用いた学習リポジトリ。
-LIT_HUBにて気づきをあげています
+PostgreSQLとPython(psycopg2)を用いた学習リポジトリ
+
+LIT_HUBに学んだ際の気づきをのせています
 
 ## 主な学習内容
 - CREATE TABLE
